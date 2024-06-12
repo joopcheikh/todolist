@@ -1,4 +1,0 @@
-# ignore tous (*)
-*
-# on garde tous ce qui est .jar
-!target/*.jar
